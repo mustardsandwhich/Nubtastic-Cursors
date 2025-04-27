@@ -1,39 +1,47 @@
-
 # Nubtastic Cursors
 A set of animated cursors for windows made from assets pulled straight from Nubby's Number Factory. Feel free to use them in any order. **All assets belong to [MogDog](https://www.mogdogblog.com/).** 
 
 # 
 
-<u>Normal</u>
+<ins>Normal</ins>
+
 ![guh](https://raw.githubusercontent.com/mustardsandwhich/Nubtastic-Cursors/main/Gifs/Normal%20Select.gif)
 
-<u>Link</u>
+<ins>Link</ins>
+
 ![guh](https://raw.githubusercontent.com/mustardsandwhich/Nubtastic-Cursors/main/Gifs/Link%20Select.gif)
 
-<u>Working in background</u>
+<ins>Working in background</ins>
 ![guh](https://raw.githubusercontent.com/mustardsandwhich/Nubtastic-Cursors/main/Gifs/Working%20In%20Background.gif)
 
-<u>Busy</u>
+<ins>Busy</ins>
+
 ![guh](https://raw.githubusercontent.com/mustardsandwhich/Nubtastic-Cursors/main/Gifs/Busy.gif)
 
-<u>Text Select</u>
+<ins>Text Select</ins>
+
 ![guh](https://raw.githubusercontent.com/mustardsandwhich/Nubtastic-Cursors/main/Gifs/Text%20Select.gif)
 
-<u>Unavailable</u>
+<ins>Unavailable</ins>
+
 ![guh](https://raw.githubusercontent.com/mustardsandwhich/Nubtastic-Cursors/main/Gifs/Unavailable.gif)
 
-<u>Help</u>
+<ins>Help</ins>
+
 ![guh](https://raw.githubusercontent.com/mustardsandwhich/Nubtastic-Cursors/main/Gifs/Help%20Select.gif)
 
-<u>Grabbing</u>
+<ins>Grabbing</ins>
+
 ![guh](https://raw.githubusercontent.com/mustardsandwhich/Nubtastic-Cursors/main/Gifs/Move.gif)
 
-<u>Precision + black and white version</u>
+<ins>Precision + black and white version</ins>
+
 ![guh](https://raw.githubusercontent.com/mustardsandwhich/Nubtastic-Cursors/main/Gifs/Precision%20Select.gif)
 
 ![guh](https://raw.githubusercontent.com/mustardsandwhich/Nubtastic-Cursors/main/Gifs/Precision%20Select%20ALT.gif)
 
-<u>Resizing</u>
+<ins>Resizing</ins>
+
 ![guh](https://raw.githubusercontent.com/mustardsandwhich/Nubtastic-Cursors/main/Gifs/Verticle%20Resize.gif)
 
 ![guh](https://raw.githubusercontent.com/mustardsandwhich/Nubtastic-Cursors/main/Gifs/Horizontal%20Resize.gif)
@@ -42,10 +50,12 @@ A set of animated cursors for windows made from assets pulled straight from Nubb
 
 ![guh](https://raw.githubusercontent.com/mustardsandwhich/Nubtastic-Cursors/main/Gifs/Diagonal%20Resize%202.gif)
 
-<u>Drawing</u>
+<ins>Drawing</ins>
+
 ![guh](https://raw.githubusercontent.com/mustardsandwhich/Nubtastic-Cursors/main/Gifs/Handwriting.gif)
 
-<u>Alternate Select / Location Select / Person Select (You'll never see these)</u>
+<ins>Alternate Select / Location Select / Person Select (You'll never see these)</ins>
+
 ![guh](https://raw.githubusercontent.com/mustardsandwhich/Nubtastic-Cursors/main/Gifs/Alternate%20Select.gif)
 
 ![guh](https://raw.githubusercontent.com/mustardsandwhich/Nubtastic-Cursors/main/Gifs/Location%20Select.gif)
