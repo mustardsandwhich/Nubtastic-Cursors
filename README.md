@@ -3,44 +3,45 @@ A set of animated cursors for windows made from assets pulled straight from Nubb
 
 # 
 
-<ins>Normal</ins>
+###Normal
 
 ![guh](https://raw.githubusercontent.com/mustardsandwhich/Nubtastic-Cursors/main/Gifs/Normal%20Select.gif)
 
-<ins>Link</ins>
+###Link
 
 ![guh](https://raw.githubusercontent.com/mustardsandwhich/Nubtastic-Cursors/main/Gifs/Link%20Select.gif)
 
-<ins>Working in background</ins>
+###Working in background
+
 ![guh](https://raw.githubusercontent.com/mustardsandwhich/Nubtastic-Cursors/main/Gifs/Working%20In%20Background.gif)
 
-<ins>Busy</ins>
+###Busy
 
 ![guh](https://raw.githubusercontent.com/mustardsandwhich/Nubtastic-Cursors/main/Gifs/Busy.gif)
 
-<ins>Text Select</ins>
+###Text Select
 
 ![guh](https://raw.githubusercontent.com/mustardsandwhich/Nubtastic-Cursors/main/Gifs/Text%20Select.gif)
 
-<ins>Unavailable</ins>
+###Unavailable
 
 ![guh](https://raw.githubusercontent.com/mustardsandwhich/Nubtastic-Cursors/main/Gifs/Unavailable.gif)
 
-<ins>Help</ins>
+###Help
 
 ![guh](https://raw.githubusercontent.com/mustardsandwhich/Nubtastic-Cursors/main/Gifs/Help%20Select.gif)
 
-<ins>Grabbing</ins>
+###Grabbing
 
 ![guh](https://raw.githubusercontent.com/mustardsandwhich/Nubtastic-Cursors/main/Gifs/Move.gif)
 
-<ins>Precision + black and white version</ins>
+###Precision + black and white version
 
 ![guh](https://raw.githubusercontent.com/mustardsandwhich/Nubtastic-Cursors/main/Gifs/Precision%20Select.gif)
 
 ![guh](https://raw.githubusercontent.com/mustardsandwhich/Nubtastic-Cursors/main/Gifs/Precision%20Select%20ALT.gif)
 
-<ins>Resizing</ins>
+###Resizing
 
 ![guh](https://raw.githubusercontent.com/mustardsandwhich/Nubtastic-Cursors/main/Gifs/Verticle%20Resize.gif)
 
@@ -50,11 +51,11 @@ A set of animated cursors for windows made from assets pulled straight from Nubb
 
 ![guh](https://raw.githubusercontent.com/mustardsandwhich/Nubtastic-Cursors/main/Gifs/Diagonal%20Resize%202.gif)
 
-<ins>Drawing</ins>
+###Drawing
 
 ![guh](https://raw.githubusercontent.com/mustardsandwhich/Nubtastic-Cursors/main/Gifs/Handwriting.gif)
 
-<ins>Alternate Select / Location Select / Person Select (You'll never see these)</ins>
+###Alternate Select / Location Select / Person Select (You'll never see these)
 
 ![guh](https://raw.githubusercontent.com/mustardsandwhich/Nubtastic-Cursors/main/Gifs/Alternate%20Select.gif)
 
